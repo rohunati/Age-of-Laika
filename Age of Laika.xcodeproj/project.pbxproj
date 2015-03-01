@@ -21,6 +21,7 @@
 		92C6801219A6B90F00F9413B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92C67FF419A6B90E00F9413B /* UIKit.framework */; };
 		92C6801A19A6B90F00F9413B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 92C6801819A6B90F00F9413B /* InfoPlist.strings */; };
 		92C6801C19A6B90F00F9413B /* Age_of_LaikaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 92C6801B19A6B90F00F9413B /* Age_of_LaikaTests.m */; };
+		92C6802619A6BD0000F9413B /* Laika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92C6802519A6BD0000F9413B /* Laika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		92C6801719A6B90F00F9413B /* Age of LaikaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Age of LaikaTests-Info.plist"; sourceTree = "<group>"; };
 		92C6801919A6B90F00F9413B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		92C6801B19A6B90F00F9413B /* Age_of_LaikaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Age_of_LaikaTests.m; sourceTree = "<group>"; };
+		92C6802519A6BD0000F9413B /* Laika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Laika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		92C67FF719A6B90E00F9413B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				92C6802519A6BD0000F9413B /* Laika.jpg */,
 				92C67FF819A6B90E00F9413B /* Age of Laika-Info.plist */,
 				92C67FF919A6B90E00F9413B /* InfoPlist.strings */,
 				92C67FFC19A6B90E00F9413B /* main.m */,
@@ -231,6 +234,7 @@
 			files = (
 				92C6800919A6B90E00F9413B /* Images.xcassets in Resources */,
 				92C67FFB19A6B90E00F9413B /* InfoPlist.strings in Resources */,
+				92C6802619A6BD0000F9413B /* Laika.jpg in Resources */,
 				92C6800419A6B90E00F9413B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
